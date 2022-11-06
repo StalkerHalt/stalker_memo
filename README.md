@@ -36,8 +36,8 @@
 * [Девятовская каменоломня (Силикаты)](maps/Девятовская_каменоломня_Силикаты.gif)
 * [Гурьевские каменоломни (Бяки)](maps/Бяки.jpg)
 * [Никитские каменоломни (Никиты)](maps/Никиты.jpg)
-* [Пещера Юбилейная](maps/Юбилейная1.jpg)
-* [Пещера Юбилейная - система Кошмаров](maps/Юбилейная2.jpg)
+* [Пещера Юбилейная](maps/Юбилейная1.gif)
+* [Пещера Юбилейная - система Кошмаров](maps/Юбилейная2.gif)
 
 Предупреждения
 ------------------------------------
@@ -80,31 +80,31 @@
 
 Фонари
 ------------------------------------
-https://fonariki.ru/
+* https://fonariki.ru/
 
-https://nitecore.ru/
+* https://nitecore.ru/
 
-https://fenix-russia.ru/
+* https://fenix-russia.ru/
 
-http://www.yarkiyluch.ru/
+* http://www.yarkiyluch.ru/
 
-https://www.armytek.ru/
+* https://www.armytek.ru/
 
-https://petzl.ru/headlamps
+* https://petzl.ru/headlamps
 
-https://olight-russia.ru/
+* https://olight-russia.ru/
 
-http://convoy.ru/
+* http://convoy.ru/
 
-https://www.lumintop.ru/
+* https://www.lumintop.ru/
 
-https://fonarik-market.ru/category/fonari-i-aksessuary/
+* https://fonarik-market.ru/category/fonari-i-aksessuary/
 
-https://www.superfonarik.ru/
+* https://www.superfonarik.ru/
 
-http://LumenHouse.ru
+* http://LumenHouse.ru
 
-https://eagle-tac.ru/fonari/mx30l4xc/
+* https://eagle-tac.ru/fonari/mx30l4xc/
 
 Полезные ссылки
 ------------------------------------
