@@ -219,6 +219,7 @@
 * [Карта Москвы 1968г](http://retromap.ru/051968_0020091_z13_55.753845,37.626800)
 * [Заброшенные места в гугл](https://www.google.com/maps/d/u/0/viewer?mid=1k2xGB_tLl0gj7rkmyADLMm_IFkY&ll=55.943727054839975%2C37.97045815106311&z=9)
 * [Коллекция фотографий и координат заброшек](https://www.rad-x-book.com/)
+* [Скрытый мир](http://nuclearvault.narod.ru/)
 * [Заброшенные места Москвы и МО](http://psi-lab.ru/zabroshki.html)
 * [Ещё один сайт с заброшенными местами Москвы](https://www.2do2go.ru/msk/zabroshennye-mesta)
 * [И ещё](https://moskva-x.ru/xzabrosh0)
